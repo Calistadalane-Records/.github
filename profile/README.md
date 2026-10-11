@@ -6,11 +6,10 @@
 
   ![](./cr-logo.png)
 
-  <h1>Releases</h1>
+  <hr>
 
-  | Record | Band | Album |
-  |--------|------|-------|
-  | [CR0001](https://github.com/Calistadalane-Records/RINGS/ThisWayBeNight) | RINGS | This Way Be Night |
-  | [CR0002](https://github.com/Calistadalane-Records/TERRORCAT/TERRORCAT) | TERRORCAT | TERRORCAT |
+  [![](https://github.com/Calistadalane-Records/RINGS/blob/main/RINGS.png)](https://github.com/Calistadalane-Records/RINGS)
+  
+  [![](https://github.com/Calistadalane-Records/TERRORCAT/blob/main/TERRORCAT.png)](https://github.com/Calistadalane-Records/TERRORCAT)
 
 </div>
