@@ -7,7 +7,6 @@
   ![](./cr-logo.png)
 
   <hr>
-
   <h1>Bands</h1>
 
   [![](https://github.com/Calistadalane-Records/Rings/blob/main/Rings.png)](https://github.com/Calistadalane-Records/Rings)
